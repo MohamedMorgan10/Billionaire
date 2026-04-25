@@ -5,7 +5,7 @@ import numpy as np
 import numpy_financial as npf
 import math
 from sklearn.ensemble import IsolationForest
-
+pip install streamlit pandas plotly scikit-learn numpy-financial
 # --- PAGE CONFIGURATION ---
 st.set_page_config(page_title="AI Finance Manager", layout="wide", page_icon="📈")
 
